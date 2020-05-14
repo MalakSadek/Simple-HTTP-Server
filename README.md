@@ -7,7 +7,7 @@ This is an HTTP server implemented in Java. It supports HTTP GET, HEAD and DELET
 A short report of the advanded requirements can be read here.
 Installation
 
-    `Clone the project: git clone https://github.com/MalakSadek/Simple-HTTP-Server`
+    Clone the project: `git clone https://github.com/MalakSadek/Simple-HTTP-Server`
 
 Cd into the directory and compile the files, then run the source code:
 
