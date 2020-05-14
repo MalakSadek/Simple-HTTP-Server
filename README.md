@@ -13,8 +13,8 @@ Clone the project:
 
 Cd into the directory and compile the files, then run the source code:
 
-            `cd Java-Web-Server-HTTP-Requests`
-            `javac src/*.java src/exception/*.java`
+            cd Java-Web-Server-HTTP-Requests
+            javac src/*.java src/exception/*.java
 
 ## Usage
 
