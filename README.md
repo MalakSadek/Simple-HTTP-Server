@@ -22,14 +22,14 @@ Cd into the directory and compile the files, then run the source code:
 
 Run the server:
 
-`cd src/`
-`java WebServerMain <document_root> <port_number> <max_number_of_active_threads>`
+            cd src/
+            java WebServerMain <document_root> <port_number> <max_number_of_active_threads>
 
 where:
 
-    * document_root is the root directory from which the server will serve documents.
-    * port_number is the port on which the server will listen.
-    * <max_number_of_active_threads> is the maximum number of clients that can connect simultaneously to the server.
+* document_root is the root directory from which the server will serve documents.
+* port_number is the port on which the server will listen.
+* <max_number_of_active_threads> is the maximum number of clients that can connect simultaneously to the server.
 
 Example: `java WebServerMain ../www 12345 100`
 
