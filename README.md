@@ -5,14 +5,16 @@ A simple HTTP server in Java 🌐 📂 (2019)
 This is an HTTP server implemented in Java. It supports HTTP GET, HEAD and DELETE requests from multiple clients through threading, and responses appropriately to connecting clients using the 200 OK, 204 No Content, 404 Not Found and 501 Not Implemented codes. It also supports text files such as text/html and binary images such as `images/jpg`, `images/jpeg`, `images/png` and `images/gif`. The server logs every request to a .txt file.
 
 A short report of the advanded requirements can be read here.
-Installation
 
-    Clone the project: `git clone https://github.com/MalakSadek/Simple-HTTP-Server`
+### Installation
+
+Clone the project: 
+            `git clone https://github.com/MalakSadek/Simple-HTTP-Server`
 
 Cd into the directory and compile the files, then run the source code:
 
-`cd Java-Web-Server-HTTP-Requests`
-`javac src/*.java src/exception/*.java`
+            `cd Java-Web-Server-HTTP-Requests`
+            `javac src/*.java src/exception/*.java`
 
 ## Usage
 
